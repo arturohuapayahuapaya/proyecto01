@@ -7,8 +7,8 @@ Datos de entrada
 variables 
 */
 
-var num1 = 12;
-var num2 = 10;
+var num1 = 150;
+var num2 = 120;
 
 /* proceso */
 var total = num1 + num2;
